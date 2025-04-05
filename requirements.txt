@@ -1,0 +1,15 @@
+kivy>=2.1.0
+plyer>=2.1.0
+requests>=2.31.0
+twilio>=8.0.0
+pillow>=10.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+firebase-admin>=6.2.0
+pyttsx3>=2.90
+gps>=3.19
+sounddevice>=0.4.6
+scipy>=1.11.0
+geopy>=2.4.0
+sendgrid>=6.10.0
